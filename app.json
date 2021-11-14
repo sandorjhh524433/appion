@@ -1,5 +1,5 @@
 {
-    "repository": "",
+    "repository": "https://github.com/sandorjhh524433/appion",
     "stack": "container",
 	"env": {
       "APP_NAME" : {
